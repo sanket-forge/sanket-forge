@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">🧠 Third-year CS undergrad passionate about tech<br>🌱 I’m currently learning iOS Developement<br>⚡ Fun fact I love to capture photos and videos</h5>
+<h5 align="center">🧠 Third-year CS undergrad passionate about tech<br>🌱 I’m currently learning iOS Developement<br>⚡ Fun fact I love to capture photos and videos</h5>
 
 ###
 
